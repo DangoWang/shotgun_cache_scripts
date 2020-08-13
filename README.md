@@ -7,7 +7,7 @@ trigger the cache method to cache the data in real time.
 用来触发缓存函数以实现实时缓存
 
 # generate_tables
-craete tables and fields for postgre from shotgun
+create tables and fields for postgre from shotgun
 建表和同步所有字段
 
 # init data

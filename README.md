@@ -1,7 +1,6 @@
+# scripts to cache shotgun database to postgresql
+# 主要用来将shotgun的数据库缓存到本地postgresql上面，以大大提高查询速度。
 # 脚本说明
-## shotgun_cache_scripts
-scripts to cache shotgun database to postgresql
-主要用来将shotgun的数据库缓存到本地postgresql上面，以大大提高查询速度。
 
 ## event
 trigger the cache method to cache the data in real time.
